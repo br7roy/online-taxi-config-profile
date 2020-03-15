@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 env: master-qa
 
@@ -7,3 +8,12 @@ server:
 
 
 
+=======
+#服务端口
+server: 
+  port: 8001
+
+
+env: branch-dev-qa
+  
+>>>>>>> upstream/dev
